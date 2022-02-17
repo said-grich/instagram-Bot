@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    background-color: #f7f7f7;
+}
+
+#header_box {
+    background-color: coral;
+    color: white;
+    height: 30vh;
+    padding: 50px;
+    margin: -8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
+}
+
+#header_box h1 {
+    font-size: 60px;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Open Sans';
+}
+
+#header_box h3 {
+    margin-top: 110px;
+    font-family: 'Poppins';
+}
+
+section {
+    height: auto;
+    width: 90%;
+    margin: 5%;
+    font-family: Poppins;
+
+
+}
+
+#login_cri {
+    border: 5px #DC2743FF solid;
+    border-radius: 20px;
+    height: 280px;
+    padding: 20px;
+}
+
+#username {
+    width: 30%;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Poppins;
+}
+
+#password {
+    width: 30%;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Poppins;
+    margin-top: 30px;
+}
+
+#input_box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box_te {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#login_button {
+    background-color: #e6683c;
+    border: none;
+    padding: 5px;
+    height: 40px;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+/*-----------------------------------------------------------Scrapper--------------------------------------*/
+#scraper_cri {
+    border: 5px #DC2743FF solid;
+    border-radius: 20px;
+    height: 200px;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+#username_Scraped {
+    width: 30%;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Poppins;
+}
+
+#input_box_scraper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box_te_scraper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#Scraper_button {
+    background-color: #e6683c;
+    border: none;
+    padding: 5px;
+    height: 40px;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+/*------------------------------------------------------------Tags-------------------------------*/
+#tags_cri {
+    border: 5px #DC2743FF solid;
+    border-radius: 20px;
+    height: 290px;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+#tags_post_data {
+    width: 60%;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Poppins;
+}
+
+#tags_post_url {
+    margin-bottom: 20px;
+    width: 60%;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Poppins;
+}
+
+#input_box_tags {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box_te_tags {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#tags_button {
+    background-color: #e6683c;
+    border: none;
+    padding: 5px;
+    height: 40px;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+/*------------------------------------------------------------Grouped Messages-------------------------------*/
+#msg_cri {
+    border: 5px #DC2743FF solid;
+    border-radius: 20px;
+    height: 200px;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+#msg_post_data {
+    width: 60%;
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    font-family: Poppins;
+}
+
+.alert_Box{
+    width: 50%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#input_box_msg {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box_te_msg {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+#msg_button {
+    background-color: #e6683c;
+    border: none;
+    padding: 5px;
+    height: 40px;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

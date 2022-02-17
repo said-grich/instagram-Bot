@@ -1,0 +1,1025 @@
+1644696610552	geckodriver	INFO	Listening on 127.0.0.1:54647
+1644696613612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54648" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile3WEBOz"
+1644696614882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile3WEBOz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54648/devtools/browser/03368a99-194e-49f9-b4ea-179b287a9a3b
+1644696618634	Marionette	INFO	Listening on port 54655
+1644696618964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644696683228	Marionette	INFO	Stopped listening on port 54655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+lhost:54746/devtools/browser/2bf52dea-7152-4c23-af6f-b94e52fc5f20
+1644696682971	Marionette	INFO	Listening on port 54753
+1644696683198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644697962328	Marionette	INFO	Stopped listening on port 54753
+:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilekePzag"
+1644697256463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilekePzag\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55080/devtools/browser/d2849de4-1c99-424d-98e4-2662d855127b
+1644697259702	Marionette	INFO	Listening on port 55087
+1644697260048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644697377842	Marionette	INFO	Stopped listening on port 55087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileWo1iPd"
+1644697352522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileWo1iPd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55187/devtools/browser/28ef2e54-2237-4b4b-b8b9-c78f1c57ea48
+1644697356108	Marionette	INFO	Listening on port 55194
+1644697356228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644697380939	Marionette	INFO	Stopped listening on port 55194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644697474447	geckodriver	INFO	Listening on 127.0.0.1:55300
+1644697477508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55301" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilehHoyzP"
+1644697478056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilehHoyzP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55301/devtools/browser/ff34b9df-1fa7-48e3-8ba2-9bffd3692ea1
+1644697481038	Marionette	INFO	Listening on port 55308
+1644697481196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644697508626	Marionette	INFO	Stopped listening on port 55301644697510647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55374" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilenR2dY5"
+1644697511164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilenR2dY5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55374/devtools/browser/a1238a77-e36c-4cd5-a422-5c0a0e887cf4
+1644697514444	Marionette	INFO	Listening on port 55382
+1644697514888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644697709363	Marionette	INFO	Stopped listening on port 55382
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+97595264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilePTSXB2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55482/devtools/browser/a753d49a-f9da-4b22-b69b-8220a4cf2b16
+1644697598496	Marionette	INFO	Listening on port 55487
+1644697598973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644697710933	Marionette	INFO	Stopped listening on port 55487
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644697754459	geckodriver	INFO	Listening on 127.0.0.1:55611
+1644697757520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55612" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileMKcBDM"
+1644697758029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileMKcBDM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55612/devtools/browser/9fc81203-9ab1-470b-8ff2-8328734e77ba
+1644697761328	Marionette	INFO	Listening on port 55620
+1644697761727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644697961489	Marionette	INFO	Stopped listening on port 55620
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000B,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+cal\\Temp\\rust_mozprofileToNDXR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55742/devtools/browser/a9659f8e-d7be-4c38-984c-3bf89a8c4b2a
+1644697916592	Marionette	INFO	Listening on port 55749
+1644697916964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644697960624	Marionette	INFO	Stopped listening on port 55749
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644697964191	geckodriver	INFO	Listening on 127.0.0.1:55836
+1644697967250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55837" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileBuO4Wz"
+1644697967779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileBuO4Wz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55837/devtools/browser/c0fa0a6b-f958-403c-b748-034b05b27881
+1644697971080	Marionette	INFO	Listening on port 55844
+1644697971460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644698865960	Marionette	INFO	Stopped listening on port 55844
+tte	INFO	Stopped listening on port 56019
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644698160246	geckodriver	INFO	Listening on 127.0.0.1:56107
+1644698163341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56108" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileIIBqC2"
+1644698163790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileIIBqC2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56108/devtools/browser/4f20468a-cd57-4a7c-8d1f-ccd7939b2513
+1644698167196	Marionette	INFO	Listening on port 56115
+1644698167562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644698199513	Marionette	INFO	Stopped listening on port 56115
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644698258851	geckodriver	INFO	Listening on 127.0.0.1:56209
+1644698261897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56210" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilee5uOLS"
+1644698262418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilee5uOLS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56210/devtools/browser/6c51dfcc-e647-41f4-96bd-4c8437e724fa
+1644698265812	Marionette	INFO	Listening on port 56217
+1644698266113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644698366034	Marionette	INFO	Stopped listening on port 56217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+\Local\\Temp\\rust_mozprofileZB4xh4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56291/devtools/browser/02f13eae-9032-41b3-815d-029056d084b3
+1644698316152	Marionette	INFO	Listening on port 56298
+1644698316222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644698367135	Marionette	INFO	Stopped listening on port 56298
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644698393493	geckodriver	INFO	Listening on 127.0.0.1:56391
+1644698396598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56392" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileP8KtBZ"
+1644698397131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileP8KtBZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56392/devtools/browser/cb652c67-297e-4d2b-a67b-f7d16ca7bb85
+1644698400663	Marionette	INFO	Listening on port 56399
+1644698400782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644698508472	Marionette	INFO	Stopped listening on port 56399
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mozprofileJNlMvV"
+1644698423792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileJNlMvV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56459/devtools/browser/44e57fa9-2415-490b-9069-a62a4379e4e9
+1644698426970	Marionette	INFO	Listening on port 56466
+1644698427043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644698507565	Marionette	INFO	Stopped listening on port 56466
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56551" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileqBwq0v"
+1644698482097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileqBwq0v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56551/devtools/browser/2ebac2cb-9464-43b5-b26c-7cf33e8ae0c3
+1644698485788	Marionette	INFO	Listening on port 56558
+1644698485898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644698503829	geckodriver	INFO	Listening on 127.0.0.1:56618
+1644698506916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56619" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilerxtuij"
+1644698507577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilerxtuij\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56619/devtools/browser/a2795c3e-6e69-4106-b273-e843b6fc549e
+1644698511429	Marionette	INFO	Listening on port 56626
+1644698511727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644698864316	Marionette	INFO	Stopped listening on port 56626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56724" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilevcma5b"
+1644698606556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilevcma5b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56724/devtools/browser/795d2436-21eb-4a03-bfa9-4d4b0f639153
+1644698609831	Marionette	INFO	Listening on port 56731
+1644698610208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/uXStWX81VUw.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yB/l/0,cross/38_dsKKjoA_.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644698862949	Marionette	INFO	Stopped listening on port 56731
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+98838106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileGMXlwh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56904/devtools/browser/f93fc849-521f-4ce5-8bdb-e86a809b0286
+1644698841626	Marionette	INFO	Listening on port 56911
+1644698841759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644698940152	Marionette	INFO	Stopped listening on port 56911
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644698941969	geckodriver	INFO	Listening on 127.0.0.1:57027
+1644698945048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57028" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileOYhTik"
+1644698945567	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileOYhTik\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57028/devtools/browser/9f440888-1e2f-4548-9d48-d70d92f7ca86
+1644698948637	Marionette	INFO	Listening on port 57033
+1644698948707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/uXStWX81VUw.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yB/l/0,cross/38_dsKKjoA_.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: https://www.instagram.com/accounts/onetap/?next=%2F, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/1ad9e8dca820.js, line 365: TypeError: this.props is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644699092845	Marionette	INFO	Stopped listening on port 57033
+e file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileNqgrOG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57161/devtools/browser/3fc5841b-e814-462f-b78a-79629d3f56db
+1644699086609	Marionette	INFO	Listening on port 57168
+1644699086665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/uXStWX81VUw.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yB/l/0,cross/38_dsKKjoA_.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: https://www.instagram.com/accounts/onetap/?next=%2F, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/1ad9e8dca820.js, line 365: TypeError: this.props is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644699184646	Marionette	INFO	Stopped listening on port 57168
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644699186180	geckodriver	INFO	Listening on 127.0.0.1:57290
+1644699189243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57291" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile0DZ1mi"
+1644699189731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile0DZ1mi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57291/devtools/browser/f7cebab6-3e39-4744-a115-8c6cd5049321
+1644699192545	Marionette	INFO	Listening on port 57296
+1644699192975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644699492687	Marionette	INFO	Stopped listening on port 57296
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57482" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileuK4RxK"
+1644699397174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileuK4RxK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57482/devtools/browser/a281c1c1-5149-47a5-a52b-68f08d040e44
+1644699400842	Marionette	INFO	Listening on port 57491
+1644699400932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644699491077	Marionette	INFO	Stopped listening on port 57491
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644699505808	geckodriver	INFO	Listening on 127.0.0.1:57613
+1644699508893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57614" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileKfz0iN"
+1644699509437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileKfz0iN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57614/devtools/browser/2ba45fff-d438-4cfc-a109-8b8e25afc8f6
+1644699512598	Marionette	INFO	Listening on port 57620
+1644699513123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+JavaScript error: https://www.instagram.com/accounts/onetap/?next=%2F, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/1ad9e8dca820.js, line 365: TypeError: this.props is undefined
+1644699563255	Marionette	1644699563719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileNsb2pe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57709/devtools/browser/5d6c1b99-8223-457d-83f4-fe91d0e7e53c
+1644699567006	Marionette	INFO	Listening on port 57716
+1644699567087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.netconsole.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is nullconsole.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutatJavaScript error: https://www.instagram.com/accounts/onetap/?next=%2F, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/1ad9e8dca820.js, line 365: TypeError: this.props is undefined
+1644699735989	Marionette	INFO	Stopped listening on port 57825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+t: display-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:802:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:398:33
+form@resource://devtools/server/actors/inspector/node.js:217:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:593:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: "Error sending event: scrollable-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:802:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:398:33
+form@resource://devtools/server/actors/inspector/node.js:217:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:597:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1644699736275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57939" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile92a3S0"
+1644699736823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile92a3S0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57939/devtools/browser/f42ee1f9-bcb2-4d73-94ea-05983eea688a
+1644699740022	Marionette	INFO	Listening on port 57949
+1644699740456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644699785091	Marionette	INFO	Stopped listening on port 57949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644703269401	geckodriver	INFO	Listening on 127.0.0.1:59451
+1644703272481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59452" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileXmMbzx"
+1644703273096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileXmMbzx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59452/devtools/browser/412190db-cf32-484b-8915-b77d09aa4ba2
+1644703276578	Marionette	INFO	Listening on port 59459
+1644703276704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644703446893	Marionette	INFO	Stopped listening on port 59459
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644703451967	geckodriver	INFO	Listening on 127.0.0.1:59601
+1644703455048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59602" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileM6tR23"
+1644703455508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileM6tR23\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59602/devtools/browser/ea72756e-93da-4086-a9d9-46ecfebd0c2f
+1644703458745	Marionette	INFO	Listening on port 59607
+1644703458826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644703709063	Marionette	INFO	Stopped listening on port 59607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644703901142	geckodriver	INFO	Listening on 127.0.0.1:49772
+1644703904396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49773" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile6wiNcx"
+1644703907304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile6wiNcx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49773/devtools/browser/91061570-d269-4181-a08b-4798465c76ca
+1644703912439	Marionette	INFO	Listening on port 49778
+1644703912743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644704005347	Marionette	INFO	Stopped listening on port 49778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644704008120	geckodriver	INFO	Listening on 127.0.0.1:49863
+1644704011199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49864" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilePeQ8PY"
+1644704011670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilePeQ8PY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49864/devtools/browser/8a17b205-a7bc-4fde-b18f-673f3ec734fa
+1644704014596	Marionette	INFO	Listening on port 49869
+1644704014884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/uXStWX81VUw.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yB/l/0,cross/38_dsKKjoA_.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://www.instagram.com/accounts/onetap/?next=%2F, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/1ad9e8dca820.js, line 365: TypeError: this.props is undefined
+console.error: "Unable to find target with innerWindowId:34"
+console.error: "Unable to find target with innerWindowId:34"
+console.error: "Unable to find target with innerWindowId:34"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1069"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1069:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:642:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:751:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1069, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1168:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1393:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1116:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:645:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:751:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1168, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1168))
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.error: "Unable to find target with innerWindowId:2147483655"
+console.error: "Unable to find target with innerWindowId:2147483655"
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1069"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1069:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:642:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:751:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1069, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1168:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1393:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1116:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:645:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:751:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1168, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1168))
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644705030493	Marionette	INFO	Stopped listening on port 49869
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644705032858	geckodriver	INFO	Listening on 127.0.0.1:50395
+1644705035946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50396" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilePcdmXo"
+1644705036484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilePcdmXo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50396/devtools/browser/a51e2933-e4a0-43fa-a5aa-c2f617133a9e
+1644705039654	Marionette	INFO	Listening on port 50403
+1644705040179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644705099559	Marionette	INFO	Stopped listening on port 50403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644705101519	geckodriver	INFO	Listening on 127.0.0.1:50503
+1644705104563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50504" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileiUmyJx"
+1644705105034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileiUmyJx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50504/devtools/browser/c362b8bd-782f-49be-9452-8e0bb478b3ee
+1644705108156	Marionette	INFO	Listening on port 50511
+1644705108250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644705164969	Marionette	INFO	Stopped listening on port 50511
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Could not write session state file " (new Error("IOUtils: Shutting down and refusing additional I/O tasks", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\n"
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644705397432	geckodriver	INFO	Listening on 127.0.0.1:50684
+1644705400494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50685" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile90T3EY"
+1644705401045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile90T3EY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50685/devtools/browser/9e8b094c-f124-4756-8ad3-259084b4bd86
+1644705404225	Marionette	INFO	Listening on port 50692
+1644705404728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644707947452	Marionette	INFO	Stopped listening on port 50692
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644778457106	geckodriver	INFO	Listening on 127.0.0.1:49777
+1644778460610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49778" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileuEdrbZ"
+1644778462073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileuEdrbZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49778/devtools/browser/36c16e53-e204-48a5-b285-9c249991bf93
+1644778468156	Marionette	INFO	Listening on port 49794
+1644778468424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644778508828	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1644780881851	Marionette	INFO	Stopped listening on port 49794
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileupZ903\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50064/devtools/browser/c9954bd9-ee31-4a58-943e-0f241995bd93
+1644778689005	Marionette	INFO	Listening on port 50071
+1644778689356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644778782749	Marionette	INFO	Stopped listening on port 50071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644778830096	geckodriver	INFO	Listening on 127.0.0.1:50232
+1644778833180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50233" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileki0LvQ"
+1644778833782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileki0LvQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50233/devtools/browser/25656196-00f8-48b9-8460-9eec62918ed0
+1644778837014	Marionette	INFO	Listening on port 50239
+1644778837391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644780879928	Marionette	INFO	Stopped listening on port 50239
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644780912602	geckodriver	INFO	Listening on 127.0.0.1:51249
+1644780915662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51250" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileZu93fB"
+1644780916117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileZu93fB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51250/devtools/browser/96b1c6b6-e849-45ca-bc8b-f091820f549a
+1644780918932	Marionette	INFO	Listening on port 51257
+1644780919365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644781067425	Marionette	INFO	Stopped listening on port 51257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644781079565	geckodriver	INFO	Listening on 127.0.0.1:51392
+1644781082642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51393" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile4tFEcu"
+1644781083095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile4tFEcu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51393/devtools/browser/8463cc86-a8ac-48b6-815d-004c204a85d6
+1644781085798	Marionette	INFO	Listening on port 51398
+1644781085848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644781138015	Marionette	INFO	Stopped listening on port 51398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644781520230	geckodriver	INFO	Listening on 127.0.0.1:49981
+1644781523330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49982" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofiledvRv0L"
+1644781524378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofiledvRv0L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49982/devtools/browser/53126ea0-bcdf-473e-9111-e2a557ce4139
+1644781528435	Marionette	INFO	Listening on port 49987
+1644781528673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644781905384	Marionette	INFO	Stopped listening on port 49987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644781909404	geckodriver	INFO	Listening on 127.0.0.1:50350
+1644781912539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50351" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilenNcU9y"
+1644781913080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilenNcU9y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50351/devtools/browser/5caccfc0-5411-4a34-8f79-f523d3bbdb63
+1644781916414	Marionette	INFO	Listening on port 50356
+1644781916760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript warning: https://www.instagram.com/boumlik_abdelhamid/, line 287: Script terminated by timeout at:
+n@https://www.instagram.com/boumlik_abdelhamid/:287:379
+log@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:63:168
+log@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:233:170
+n@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:217:149
+u/<@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:217:2983
+u@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:217:2606
+s@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/1ad9e8dca820.js:41:107
+runOnFlush/<@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:237:233
+o@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:238:312
+u/<@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:238:215
+qr@https://www.instagram.com/static/bundles/es6/Vendor.js/4850212ac61b.js:11:69895
+u@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:238:185
+n/<@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js:238:124
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.error: "Unable to find target with innerWindowId:2147483653"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1644782130246	Marionette	INFO	Stopped listening on port 50356
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644782155550	geckodriver	INFO	Listening on 127.0.0.1:56083
+1644782158613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56084" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile9A5Vsx"
+1644782159091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile9A5Vsx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56084/devtools/browser/cad04f87-30ec-4e98-a28e-595d3dbcc10b
+1644782162187	Marionette	INFO	Listening on port 56092
+1644782162308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644782281415	Marionette	INFO	Stopped listening on port 56092
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: "Could not write session state file " (new Error("IOUtils: Shutting down and refusing additional I/O tasks", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\n"
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1644782297897	geckodriver	INFO	Listening on 127.0.0.1:56242
+1644782301030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56243" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileOnjUWq"
+1644782301479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileOnjUWq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56243/devtools/browser/75b3f311-c80b-49fa-bba1-072118aef2e0
+1644782304503	Marionette	INFO	Listening on port 56250
+1644782304730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644782437957	geckodriver	INFO	Listening on 127.0.0.1:56386
+1644782441049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56387" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile7HwMRV"
+1644782441525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile7HwMRV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56387/devtools/browser/0053f925-6bf6-4183-be3d-a378cb5972dd
+1644782444612	Marionette	INFO	Listening on port 56394
+1644782444765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644782746304	geckodriver	INFO	Listening on 127.0.0.1:56601
+1644782749371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56602" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile9gfM3h"
+1644782749904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile9gfM3h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56602/devtools/browser/8c1b05a1-30ac-43cd-a572-7fba2c0ac36b
+1644782753030	Marionette	INFO	Listening on port 56609
+1644782753083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b720ffde106c.js, line 397: TypeError: can't convert undefined to object
+1644782840794	Marionette	INFO	Stopped listening on port 56609
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644782842691	geckodriver	INFO	Listening on 127.0.0.1:56734
+1644782845800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56735" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileTknwFE"
+1644782846260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileTknwFE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56735/devtools/browser/163d3d47-349f-4aef-a2b3-2e82997f9588
+1644782849245	Marionette	INFO	Listening on port 56742
+1644782849493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644782884489	Marionette	INFO	Stopped listening on port 56742
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644782906629	geckodriver	INFO	Listening on 127.0.0.1:56825
+1644782909687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56826" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileFkv1x8"
+1644782910132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileFkv1x8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56826/devtools/browser/955e1e1e-085d-42e5-bcad-0db2c2e55e26
+1644782912940	Marionette	INFO	Listening on port 56833
+1644782913337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644782955444	Marionette	INFO	Stopped listening on port 56833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644783116727	geckodriver	INFO	Listening on 127.0.0.1:57002
+1644783119811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57003" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileu4NREz"
+1644783120316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileu4NREz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57003/devtools/browser/314cfe7f-1184-4611-9fbd-9136a9bad567
+1644783123086	Marionette	INFO	Listening on port 57011
+1644783123500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644783199434	Marionette	INFO	Stopped listening on port 57011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644783278605	geckodriver	INFO	Listening on 127.0.0.1:57163
+1644783281692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57164" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileUONsRM"
+1644783282122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileUONsRM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57164/devtools/browser/5857c526-f5f3-49e6-9991-ad9e90abceb0
+1644783285073	Marionette	INFO	Listening on port 57170
+1644783285360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644783445411	Marionette	INFO	Stopped listening on port 57170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644783629075	geckodriver	INFO	Listening on 127.0.0.1:49772
+1644783632165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49773" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilesTJXFj"
+1644783633173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofilesTJXFj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49773/devtools/browser/d94e51b1-df02-46d8-b9ea-badb44598cbb
+1644783637040	Marionette	INFO	Listening on port 49778
+1644783637476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1644786136508	Marionette	INFO	Stopped listening on port 49778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1644866121774	geckodriver	INFO	Listening on 127.0.0.1:53234
+1644866124861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53235" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile2B3A13"
+1644866125911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofile2B3A13\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53235/devtools/browser/18e89db9-c429-4b0f-b623-7b844ae8130d
+1644866129701	Marionette	INFO	Listening on port 53240
+1644866130192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1644866193165	Marionette	INFO	Stopped listening on port 53240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644866195819	geckodriver	INFO	Listening on 127.0.0.1:53326
+1644866198921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53327" "-no-remote" "-profile" "C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileQlwy0f"
+1644866199762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\grich\\AppData\\Local\\Temp\\rust_mozprofileQlwy0f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53327/devtools/browser/4b803c36-9a35-4bd2-a57d-56a6bd4c03f5
+1644866203932	Marionette	INFO	Listening on port 53334
+1644866204258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644866231693	Marionette	INFO	Stopped listening on port 53334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
