@@ -94,7 +94,13 @@ class InstgrameProfile_Scrapper():
             if ',' in count:
                 count = int(''.join(count.split(',')))
             elif 'k' in count:
+                if '.' in count:
+                    count = count.replace('.', '')
                 count = int(count.replace('k', '000'))
+            elif 'm' in count:
+                if '.' in count:
+                    count = count.replace('.', '')
+                count = int(count.replace('m', '000000'))
             else:
                 count = int(count)
             print(count);
@@ -240,34 +246,37 @@ class InstgrameProfile_Scrapper():
                 try:
                     input_users.send_keys(user);
                     time.sleep(5)
-                    self.browser.execute_script("arguments[0].click();", WebDriverWait(self.browser, 60).until(
-                        EC.element_to_be_clickable(
-                            (By.XPATH, "/html/body/div[5]/div/div/div[2]/div[2]/div[2]/div/div[3]/button"))))
+                    add_button=self.browser.find_element(By.XPATH,'/html/body/div[6]/div/div/div[2]/div[2]/div[1]/div/div[3]/button')
+                    add_button.click();
+                    input_users.clear()
                     for i in user:
+                        print(i)
                         input_users.send_keys(Keys.BACKSPACE)
 
                 except Exception as e:
+                    for i in user:
+                        print(i)
+                        input_users.send_keys(Keys.BACKSPACE)
                     input_users.clear();
                     continue;
-
-        time.sleep(5)
-        next_button = self.browser.find_element(By.CSS_SELECTOR, 'button.sqdOP.yWX7d.y3zKF.cB_4K');
-        next_button.click()
-        time.sleep(20);
-        WebDriverWait(self.browser, 30).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "div.qF0y9.Igw0E.IwRSH.eGOV_.vwCYk.ItkAi")));
-        form = self.browser.find_element(By.CSS_SELECTOR, 'div.qF0y9.Igw0E.IwRSH.eGOV_.vwCYk.ItkAi')
-        text_input = form.find_element(By.TAG_NAME, 'textarea');
-        text_input.click();
-        text_input = form.find_element(By.TAG_NAME, 'textarea');
-        data = ''
-        with open('message.txt', 'r') as file:
-            data = file.read().rstrip()
-            text_input.send_keys(data)
-        time.sleep(5)
-        send_btn = form.find_element(By.XPATH,
-                                     '/html/body/div[1]/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[3]/button')
-        send_btn.click()
+                time.sleep(5)
+                next_button = self.browser.find_element(By.CSS_SELECTOR, 'button.sqdOP.yWX7d.y3zKF.cB_4K');
+                next_button.click()
+                time.sleep(20);
+                WebDriverWait(self.browser, 30).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, "div.qF0y9.Igw0E.IwRSH.eGOV_.vwCYk.ItkAi")));
+                form = self.browser.find_element(By.CSS_SELECTOR, 'div.qF0y9.Igw0E.IwRSH.eGOV_.vwCYk.ItkAi')
+                text_input = form.find_element(By.TAG_NAME, 'textarea');
+                text_input.click();
+                text_input = form.find_element(By.TAG_NAME, 'textarea');
+                data = ''
+                with open('message.txt', 'r') as file:
+                    data = file.read().rstrip()
+                    text_input.send_keys(data)
+                time.sleep(5)
+                send_btn = form.find_element(By.XPATH,
+                                             '/html/body/div[1]/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[3]/button')
+                send_btn.click()
 
         print('Messaging Don')
         return 1;
@@ -275,7 +284,7 @@ class InstgrameProfile_Scrapper():
 
 if __name__ == '__main__':
     bot = InstgrameProfile_Scrapper();
-    bot.login('grich.test', 'check8tobesafe');
+    bot.login('saad_swaad', 'saidracgrich');
     # followers = bot.get_followers(profiles, amount);
     bot.post_mesg_to_group(
         r'C:\Users\grich\PycharmProjects\instagram\Data\followerscem__emre2022-02-17_21_57_10_400189.csv')
